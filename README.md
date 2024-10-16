@@ -5,12 +5,11 @@ This project explores the application of reinforcement learning in navigating th
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Results](#results)
-- [Key Takeaways](#key-takeaways)
+- [Agent in Action](#agent-in-action)
+- [Contributing](#Contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Technologies Used
 - Python
@@ -20,3 +19,20 @@ This project explores the application of reinforcement learning in navigating th
 - NumPy
 - Matplotlib (for visualizing progress)
 
+## Results
+
+Once trained, the agent should be able to navigate and complete levels of Super Mario Bros. The notebook includes visualizations of the training process and rewards obtained.
+
+### Agent in Action
+
+![Super Mario Agent](path-to-your-gif.gif)
+
+Replace `path-to-your-gif.gif` with the actual path or link to your GIF file.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue if you encounter any problems or have suggestions for improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
