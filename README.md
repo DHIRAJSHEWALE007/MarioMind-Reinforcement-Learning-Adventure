@@ -35,9 +35,7 @@ This project showcases the potential of reinforcement learning for solving compl
 
 ### Agent in Action
 
-![Super Mario Agent](path-to-your-gif.gif)
-
-Replace `path-to-your-gif.gif` with the actual path or link to your GIF file.
+![Super Mario Agent](https://github.com/user-attachments/assets/dab82699-27bb-4fad-9221-ea315e357edc)
 
 ## Contributing
 
