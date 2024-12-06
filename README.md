@@ -35,6 +35,7 @@ This project showcases the potential of reinforcement learning for solving compl
 
 ### Agent in Action
 
+Please wait to load the video
 ![Super Mario Agent](https://github.com/user-attachments/assets/dab82699-27bb-4fad-9221-ea315e357edc)
 
 ## Contributing
